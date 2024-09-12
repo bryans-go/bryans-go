@@ -19,6 +19,6 @@ I’m @bryans-go, a passionate Go developer with a keen interest in building rob
 
 ---
 
-![Bryan standing in a blue green plaid shirt]()
+![Bryan standing in a blue green plaid shirt](https://github.com/bryans-go/bryans-go/blob/dfd97a074c6114358bab47ba8db95e7f56ec66fd/Untitled%20design.png)
 
 ---
