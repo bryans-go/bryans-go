@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 I’m @bryans-go, a passionate Go developer with a keen interest in building robust and scalable software systems. I love working on projects that push the boundaries of performance and simplicity, especially using Go.
-<img align="right" src="https://github.com/bryans-go/bryans-go/blob/main/image-removebg.png" alt="Developer standing confidently in a blue-green plaid shirt, ready to tackle any challenge" width="400px" height="400px"/>
+<img align="right" src="/image-removebg.png" alt="Developer standing confidently in a blue-green plaid shirt, ready to tackle any challenge" width="400px" height="400px"/>
 
 💬 Ask me about:
 
