@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 I’m @bryans-go, a passionate Go developer with a keen interest in building robust and scalable software systems. I love working on projects that push the boundaries of performance and simplicity, especially using Go.
-<img align="right" src="/bryan.png" alt="Developer standing confidently in a blue-green plaid shirt, ready to tackle any challenge" width="400px" height="400px"/>
+<img align="right" src="/bryan.png" alt="Developer standing confidently in a blue-green plaid shirt, ready to tackle any challenge" width="450px" height="450px"/>
 
 💬 Ask me about:
 
